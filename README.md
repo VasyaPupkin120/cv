@@ -10,7 +10,7 @@ __Личные данные и контакты__
 
 __Цели__
 
-Ищу работу стажером/джуниором на бэкенде с фреймворком Django в качестве основного инструмента.  
+Ищу работу начинающим разработчиком на бэкенде с фреймворком Django в качестве основного инструмента.  
 Только удаленно, либо в офисе в г.Таштагол.  
 
 ---
@@ -39,21 +39,21 @@ __Список личных проектов__
 
 Веб-ресурс [5.45.83.79](http://5.45.83.79) для личных целей - для ведения заметок:
 > попробовать в работе - [5.45.83.79](http://5.45.83.79), для входа использовать логин test и пароль passtest1234  
-> репозиторй этого сайта - https://github.com/VasyaPupkin120/notes  
+> репозиторй этого сайта - [https://github.com/VasyaPupkin120/notes](https://github.com/VasyaPupkin120/notes)  
 
-Консольная утилита для обучения английскому языку - https://github.com/VasyaPupkin120/ew  
-Мой конфиг для neovim - https://github.com/VasyaPupkin120/nvimconf  
-Набор минискриптов, написанных в процессе обучения и ради интереса - https://github.com/VasyaPupkin120/miniscripts
+Консольная утилита для обучения английскому языку - [https://github.com/VasyaPupkin120/ew](https://github.com/VasyaPupkin120/ew)  
+Мой конфиг для neovim - [https://github.com/VasyaPupkin120/nvimconf](https://github.com/VasyaPupkin120/nvimconf)  
+Набор минискриптов, написанных в процессе обучения и ради интереса - [https://github.com/VasyaPupkin120/miniscripts](https://github.com/VasyaPupkin120/miniscripts)
 
 ---
 
 __Участие в open-source проектах__  
 
 Небольшой вклад в игру SpaceStation13 (язык DreamMaker):
-> https://github.com/TauCetiStation/TauCetiClassic/pull/10185  
-> https://github.com/TauCetiStation/TauCetiClassic/pull/10410  
-> https://github.com/TauCetiStation/TauCetiClassic/pull/10339  
-> https://github.com/TauCetiStation/TauCetiClassic/pull/11727
+> [https://github.com/TauCetiStation/TauCetiClassic/pull/10185](https://github.com/TauCetiStation/TauCetiClassic/pull/10185)  
+> [https://github.com/TauCetiStation/TauCetiClassic/pull/10410](https://github.com/TauCetiStation/TauCetiClassic/pull/10410)  
+> [https://github.com/TauCetiStation/TauCetiClassic/pull/10339](https://github.com/TauCetiStation/TauCetiClassic/pull/10339)  
+> [https://github.com/TauCetiStation/TauCetiClassic/pull/11727](https://github.com/TauCetiStation/TauCetiClassic/pull/11727)
 
 ---
 
